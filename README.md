@@ -5,11 +5,6 @@ financial reports. Ask a question in natural language and the app searches
 report excerpts, sends the relevant evidence to a language model, and returns
 an answer with document and page references.
 
-> **This project does not train or fine-tune a language model.** It uses
-> pretrained models for semantic search, reranking, and answer generation.
-> The reports below are the retrieval corpus (the source material the app
-> searches), not model-training data.
-
 ## What it does
 
 - Accepts financial-report questions in a Streamlit chat interface.
