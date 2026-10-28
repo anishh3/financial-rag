@@ -1,0 +1,4 @@
+chromadb
+rank-bm25
+sentence-transformers
+streamlit>=1.40,<2

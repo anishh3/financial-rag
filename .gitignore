@@ -1,0 +1,11 @@
+.venv/
+.dist/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+notes/
+financial-retrieval/data/raw/
+financial-retrieval/artifacts/
