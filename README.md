@@ -25,6 +25,3 @@ running and the default model installed:
 ollama pull qwen2.5:1.5b
 python -m streamlit run .\financial-retrieval\src\chat_app.py
 ```
-
-See [the project README](./financial-retrieval/README.md) for additional
-question-answering options.
