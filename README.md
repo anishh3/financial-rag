@@ -25,10 +25,10 @@ PDFs for FY2026:
 
 | Report | Period covered |
 |---|---|
-| Q1 FY2026 | Quarter ended June 30, 2025 |
-| Q2 FY2026 | Quarter ended September 30, 2025 |
-| Q3 FY2026 | Quarter ended December 31, 2025 |
-| Additional information 2025-26 | Includes FY2026 full-year information, including March 31, 2026 |
+| [Q1 FY2026](https://www.infosys.com/investors/reports-filings/quarterly-results/2025-2026/q1/documents/q1-2026.pdf) | Quarter ended June 30, 2025 |
+| [Q2 FY2026](https://www.infosys.com/investors/reports-filings/quarterly-results/2025-2026/q2/documents/q2-2026.pdf) | Quarter ended September 30, 2025 |
+| [Q3 FY2026](https://www.infosys.com/investors/reports-filings/quarterly-results/2025-2026/q3/documents/q3-2026.pdf) | Quarter ended December 31, 2025 |
+| [Additional information 2025-26](https://www.infosys.com/investors/reports-filings/documents/additional-information-2025-26.pdf) | Includes FY2026 full-year information, including March 31, 2026 |
 
 The reports include financial statements and other company-reported financial
 and operating information. The raw PDFs, extracted records, text chunks, and
