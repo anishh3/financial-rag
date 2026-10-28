@@ -4,6 +4,10 @@ A Streamlit chat app for asking questions about financial reports. It retrieves
 report excerpts, generates answers with a local Ollama model, and displays
 source references.
 
+## Screenshot
+
+![Financial Reports chat interface](./images/financial-reports-chat.png)
+
 ## Run locally
 
 Install the Python dependencies:
