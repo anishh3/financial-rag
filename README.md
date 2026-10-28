@@ -6,7 +6,7 @@ source references.
 
 ## Screenshot
 
-![Financial Reports chat interface](./images/financial-reports-chat.png)
+![Financial Reports chat interface](./financial-retrieval/images/financial-reports-chat.png)
 
 ## Run locally
 

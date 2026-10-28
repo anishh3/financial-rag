@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Financial Reports chat interface](../images/financial-reports-chat.png)
+![Financial Reports chat interface](./images/financial-reports-chat.png)
 
 ## Ask a question with a local language model
 
